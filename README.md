@@ -45,7 +45,7 @@ This project presents QuErK, a framework to accelerate Quantum Error Correction 
 - querk.cfg : cfg file used by Makefile
 - setup.sh : script file to get most common commands.
 
-  **bin folder:** contains the compiled hostcode and the hardware kernel for Alveo u55c
+**bin folder:** contains the compiled hostcode and the hardware kernel for Alveo u55c
 -	querk : hostcode
 -	querk.xclbin : hardware kernel for Alveo u55c
 
